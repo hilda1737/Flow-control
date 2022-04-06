@@ -3,6 +3,7 @@ fun main(){
     var c = oddnumbers(5)
     println( Arrayofnames(arrayOf("AShaminis","Ashley","Phionamo")))
     robot(21)
+    robot(5)
     multiplication()
 
 
